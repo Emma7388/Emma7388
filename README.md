@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Sobre mi :mortar_board:
-Etudiante FullStack Developer, en NUCBA (#2117). Fue un grán cambio en mi vida, hizo darme cuenta de la capacidad de analizar y resolver situaciones. Me siento preparado para lo que viene. **ninguna cantidad de conocimiento es suficiente conocimiento**. 🧠
+Estudiante FullStack Developer, en NUCBA (#2117). Fue un grán cambio en mi vida, hizo darme cuenta de la capacidad de analizar y resolver situaciones. Me siento preparado para lo que viene. **ninguna cantidad de conocimiento es suficiente conocimiento**. 🧠
 
 ## Lo que se hasta ahora :computer:
 - **Frontend Development**
@@ -28,9 +28,9 @@ Etudiante FullStack Developer, en NUCBA (#2117). Fue un grán cambio en mi vida,
 	
 
 ## lo que viene luego :thinking:
-- Bootstrap
+- Bootstrap🔭
 - React with Redux :electron:
-- React Native
+- React Native 🌱
 - Backend Development (para convertirme al fin en un desarrollador Full-Stack):rofl:
 
 ## Sigueme! 
