@@ -33,7 +33,7 @@ Etudiante FullStack Developer, en NUCBA (#2117). Fue un grán cambio en mi vida,
 - React Native
 - Backend Development (para convertirme al fin en un desarrollador Full-Stack):rofl:
 
-## Reach me 
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emma.73_88/)](https://www.instagram.com/emma.73_88/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-molina-966587237/)](https://www.linkedin.com/in/elias-molina-966587237/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/elias-molina-966587237/)](mailto:eliasem1988@gmail.com)
+## Sigueme! 
+[![Instagram](https://img.shields.io/badge/-@Emma7388-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emma.73_88/)](https://www.instagram.com/emma.73_88/)
+[![Linkedin](https://img.shields.io/badge/-Emmanuel%20Molina-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-molina-966587237/)](https://www.linkedin.com/in/elias-molina-966587237/)
+[![Mail](https://img.shields.io/badge/-eliasem1988@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/elias-molina-966587237/)](mailto:eliasem1988@gmail.com)
