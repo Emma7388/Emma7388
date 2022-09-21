@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Bienvenido a mi github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+	<img src="https://experienciajoven.com/wp-content/uploads/2021/03/que-hace-un-programador-web.gif">
 </div>
 
 ## Sobre mi :mortar_board:
